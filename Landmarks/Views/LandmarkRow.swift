@@ -16,6 +16,7 @@ struct LandmarkRow: View {
             Spacer()
         }
     }
+    
 }
 
     
